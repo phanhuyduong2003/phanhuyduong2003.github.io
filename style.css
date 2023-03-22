@@ -3,3 +3,6 @@ a:visited {
     color: #0000ee;
     text-decoration: none;
 }
+ul {
+    list-style-type: none;
+}
